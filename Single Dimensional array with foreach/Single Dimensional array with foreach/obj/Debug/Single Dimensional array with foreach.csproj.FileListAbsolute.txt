@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Single Dimensional array with foreach\Single Dimensional array with foreach\bin\Debug\Single Dimensional array with foreach.exe.config
+D:\DEV\C#\Practice\Single Dimensional array with foreach\Single Dimensional array with foreach\bin\Debug\Single Dimensional array with foreach.exe
+D:\DEV\C#\Practice\Single Dimensional array with foreach\Single Dimensional array with foreach\bin\Debug\Single Dimensional array with foreach.pdb
+D:\DEV\C#\Practice\Single Dimensional array with foreach\Single Dimensional array with foreach\obj\Debug\Single Dimensional array with foreach.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Single Dimensional array with foreach\Single Dimensional array with foreach\obj\Debug\Single Dimensional array with foreach.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Single Dimensional array with foreach\Single Dimensional array with foreach\obj\Debug\Single Dimensional array with foreach.exe
+D:\DEV\C#\Practice\Single Dimensional array with foreach\Single Dimensional array with foreach\obj\Debug\Single Dimensional array with foreach.pdb
